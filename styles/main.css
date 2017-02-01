@@ -36,18 +36,34 @@ img {
   margin: 0 auto;
   padding: 0 15px; }
 
-.page-header__inner {
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex; }
-
-.page-header__left {
-  width: 90%;
-  padding: 0 15px; }
-
-.page-header__right {
-  width: 10%;
-  padding: 0 15px; }
-
-.page-header__title {
-  text-align: center; }
+.page-header {
+  padding: 15px 0; }
+  .page-header__inner {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex; }
+  .page-header__left {
+    width: 90%;
+    padding: 0 15px; }
+  .page-header__right {
+    width: 10%;
+    padding: 0 15px; }
+  .page-header__title {
+    text-align: center; }
+    .page-header__title a {
+      transition: color 150ms ease-in-out;
+      text-decoration: none;
+      color: #3e7fe0;
+      font-size: 24px;
+      font-weight: 700; }
+  .page-header__date {
+    font-weight: 700;
+    color: #454545;
+    font-size: 18px;
+    text-align: right; }
+  .page-header__downloads {
+    list-style: none; }
+  .page-header__link {
+    color: #3e7fe0;
+    font-size: 16px;
+    font-weight: 700; }

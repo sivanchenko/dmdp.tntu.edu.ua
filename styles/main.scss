@@ -45,6 +45,7 @@ img {
 
 
 .page-header {
+  padding: 15px 0;
   &__inner {
     display: flex;
   }
@@ -63,7 +64,28 @@ img {
     text-align: center;
 
     a {
-
+      transition: color 150ms ease-in-out;
+      text-decoration: none;
+      color: #3e7fe0;
+      font-size: 24px;
+      font-weight: 700;
     }
+  }
+
+  &__date {
+    font-weight: 700;
+    color: #454545;
+    font-size: 18px;
+    text-align: right;
+  }
+
+  &__downloads {
+    list-style: none;
+  }
+
+  &__link {
+    color: #3e7fe0;
+    font-size: 16px;
+    font-weight: 700;
   }
 }

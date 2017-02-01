@@ -96,8 +96,13 @@ img {
   padding: 5px 0;
   padding-left: 10px; }
 
-.article {
+.articles {
   -webkit-flex: 1;
   -ms-flex: 1;
   flex: 1;
   padding: 0 15px; }
+
+.article__title {
+  color: #454545;
+  font-size: 27px;
+  margin-top: 0; }

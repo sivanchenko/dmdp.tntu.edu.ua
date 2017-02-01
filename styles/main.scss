@@ -128,7 +128,16 @@ img {
   }
 }
 
-.article {
+.articles {
   flex: 1;
   padding: 0 15px;
 }
+
+.article {
+  &__title {
+    color: #454545;
+    font-size: 27px;
+    margin-top: 0;
+  }
+}
+

@@ -67,3 +67,37 @@ img {
     color: #3e7fe0;
     font-size: 16px;
     font-weight: 700; }
+
+.content {
+  padding: 70px 0; }
+  .content__inner {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex; }
+
+.aside-nav {
+  width: 22.5%; }
+
+.main-nav__list {
+  list-style: none; }
+
+.main-nav__item {
+  border-bottom: 1px solid #D4D4D4;
+  transition: all 150ms ease-in-out; }
+  .main-nav__item:last-child {
+    border-bottom: none; }
+  .main-nav__item:hover {
+    background: #f5f5f5;
+    color: #121212; }
+
+.main-nav__link {
+  display: block;
+  text-decoration: none;
+  padding: 5px 0;
+  padding-left: 10px; }
+
+.article {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  padding: 0 15px; }

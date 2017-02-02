@@ -12,7 +12,7 @@ body {
   font-size: 16px;
   line-height: 1.2;
   font-weight: 400;
-  font-family: Arial, sans-serif;
+  font-family: 'Roboto' ,Arial, sans-serif;
   color: #000;
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%;
@@ -60,7 +60,8 @@ img {
     font-weight: 700;
     color: #454545;
     font-size: 18px;
-    text-align: right; }
+    text-align: right;
+    margin-top: 10px; }
   .page-header__downloads {
     list-style: none; }
   .page-header__link {
@@ -95,7 +96,8 @@ img {
   display: block;
   text-decoration: none;
   padding: 5px 0;
-  padding-left: 10px; }
+  padding-left: 10px;
+  font-weight: 500; }
 
 .articles {
   -webkit-flex: 1;

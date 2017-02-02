@@ -1,6 +1,11 @@
 body {
     /*font: 18pt Arial, Helvetica, sans-serif;*/
     background: #ffffff;
+    font-family: Roboto,sans-serif;
+    font-weight: 500;
+}
+a {
+    transition: color 0.2s ease-in-out 0s;
 }
 #container {
     width: 100%;
@@ -32,10 +37,14 @@ body {
 #header .wrapper .col-left h3 a {
     color: #ffffff;
     text-decoration: none;
+    font-family: Roboto,sans-serif;
+    font-weight: 500;
 }
 #header .wrapper .col-left h4 {
     text-align: right;
     color: #ffffff;
+    font-family: Roboto,sans-serif;
+    font-weight: 700;
 }
 #header .wrapper .col-right {
     margin: 10px;
@@ -52,9 +61,24 @@ body {
 }
 #sidebar ul {
     list-style: none;
+    padding: 0px 20px 0 0;
 }
+#sidebar ul li {
+    margin: 5px 0;
+}
+
 #sidebar ul li a {
     text-decoration: none;
+    font-size: 18px;
+    display: block;
+    line-height: 32px;
+    /*border-bottom: 1px solid #d4d4d4;*/
+    transition: color 0.2s ease-in-out 0s;
+    padding: 0 0 0 10px;
+}
+#sidebar ul li a:hover {
+    background-color: #EFEFEF;
+    color: #000000;
 }
 #sidebar .logo {
     padding: 30px 0 0 20px;
@@ -63,6 +87,9 @@ body {
 #content {
     margin: 0 0 0 250px;
     font-size: 18px;
+    font-family: Roboto,sans-serif;
+    font-weight: 500;
+    line-height: 2em;
 }
 #footer {
     background: #212121;
@@ -73,10 +100,14 @@ body {
     text-align: center;
     padding: 20px 10px;
 }
+
+
 .center {
     margin: 0 auto; display: table;
 }
-
+.title {
+    font-size: 150%;
+}
 
 /* Clears ****************************************************************** */
 #header:after,

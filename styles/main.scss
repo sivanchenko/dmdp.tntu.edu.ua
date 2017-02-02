@@ -34,6 +34,7 @@ ol {
 img {
   max-width: 100%;
   height: auto;
+  vertical-align: top;
 }
 
 .container {
@@ -101,6 +102,9 @@ img {
 .aside-nav {
   width: 22.5%;
   padding: 0 15px;
+  &__img {
+    padding-left: 15px;
+  }
 }
 
 .main-nav {

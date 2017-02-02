@@ -12,7 +12,7 @@ body {
 body {
   background: #fff;
   font-size: 14px;
-  line-height: 21px;
+  line-height: 1.2;
   font-weight: 400;
   font-family: Arial, sans-serif;
   color: #000;
@@ -99,6 +99,7 @@ img {
 
 .aside-nav {
   width: 22.5%;
+  padding: 0 15px;
 }
 
 .main-nav {
@@ -130,14 +131,25 @@ img {
 
 .articles {
   flex: 1;
-  padding: 0 15px;
+  padding-left: 15px;
 }
 
 .article {
+  padding-bottom: 15px;
+
   &__title {
     color: #454545;
     font-size: 27px;
     margin-top: 0;
+  }
+  p {
+    font-size: 16px;
+    font-weight: 500;
+    color: #888;
+    line-height: 2;
+  }
+  img {
+    margin-bottom: 16px;
   }
 }
 

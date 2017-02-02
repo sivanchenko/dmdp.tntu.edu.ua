@@ -63,7 +63,7 @@ img {
 
   &__title {
     text-align: center;
-    margin-top: 0;
+    margin-top: 20px;
 
     a {
       transition: color 150ms ease-in-out;
@@ -111,14 +111,13 @@ img {
 .aside-nav {
   width: 22.5%;
   padding: 0 15px;
-  &__img {
-    padding-left: 15px;
-  }
 }
 
 .main-nav {
+  margin-bottom: 15px;
   &__list {
     list-style: none;
+
   }
 
   &__item {
@@ -128,19 +127,49 @@ img {
     &:last-child {
       border-bottom: none;
     }
-
-    &:hover {
-      background: #f5f5f5;
-      color: #121212;
-    }
   }
 
   &__link {
     display: block;
     text-decoration: none;
-    padding: 5px 0;
-    padding-left: 10px;
+    padding: 10px 0;
     font-weight: 500;
+    line-height: 1;
+    color: #3e7fe0;
+    transition: all 150ms ease-in-out;
+    position: relative;
+    padding-left: 10px;
+
+    &.active {
+      background: #f5f5f5;
+      color: #121212;
+
+      &::before {
+        color: #454545;
+      }
+    }
+
+    &:hover {
+      background: #f5f5f5;
+      color: #121212;
+
+      &::before {
+        color: #454545;
+      }
+    }
+
+    &::before {
+      content: '›';
+      transition: all 150ms ease-in-out;
+      position: absolute;
+      left: 0;
+      top: 50%;
+      transform: translateY(-60%);
+      margin-right: 5px;
+      color: #3e7fe0;
+      font-size: 24px;
+      line-height: 1;
+    }
   }
 }
 
@@ -164,7 +193,7 @@ img {
     line-height: 2;
   }
   img {
-    margin-bottom: 16px;
+    margin: 16px 0;
   }
 }
 

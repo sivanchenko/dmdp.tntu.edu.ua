@@ -1,0 +1,1 @@
+# Ternopil National Technical University

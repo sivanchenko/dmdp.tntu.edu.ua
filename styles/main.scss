@@ -63,6 +63,7 @@ img {
 
   &__title {
     text-align: center;
+    margin-top: 0;
 
     a {
       transition: color 150ms ease-in-out;
@@ -83,12 +84,20 @@ img {
 
   &__downloads {
     list-style: none;
+
+    li {
+      margin-bottom: 10px;
+    }
   }
 
   &__link {
     color: #3e7fe0;
     font-size: 16px;
     font-weight: 700;
+
+    img {
+      width: 18px;
+    }
   }
 }
 

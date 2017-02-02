@@ -50,7 +50,8 @@ img {
     width: 10%;
     padding: 0 15px; }
   .page-header__title {
-    text-align: center; }
+    text-align: center;
+    margin-top: 0; }
     .page-header__title a {
       transition: color 150ms ease-in-out;
       text-decoration: none;
@@ -65,10 +66,14 @@ img {
     margin-top: 10px; }
   .page-header__downloads {
     list-style: none; }
+    .page-header__downloads li {
+      margin-bottom: 10px; }
   .page-header__link {
     color: #3e7fe0;
     font-size: 16px;
     font-weight: 700; }
+    .page-header__link img {
+      width: 18px; }
 
 .content {
   padding: 70px 0; }

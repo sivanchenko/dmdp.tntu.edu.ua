@@ -9,7 +9,7 @@ body {
 
 body {
   background: #fff;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 1.2;
   font-weight: 400;
   font-family: Arial, sans-serif;
@@ -116,3 +116,11 @@ img {
     line-height: 2; }
   .article img {
     margin-bottom: 16px; }
+
+.page-footer {
+  padding: 40px 0;
+  background: #212121; }
+  .page-footer__info {
+    color: #555;
+    font-weight: 500;
+    text-align: center; }

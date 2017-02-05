@@ -1,1 +1,3 @@
-# Ternopil National Technical University
+# INTERNATIONAL CONFERENCE
+# “IN-SERVICE DAMAGE OF MATERIALS, ITS DIAGNOSTICS AND PREDICTION”
+## http://dmdp.tntu.edu.ua

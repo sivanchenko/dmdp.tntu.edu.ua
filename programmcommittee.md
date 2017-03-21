@@ -5,7 +5,7 @@ permalink: /programmcommittee/
 ---
 
 ## Co-Chairmen of the Program Committee ##
-| 111111 | 111111 |
+| |  |
 | ------ | ----------- |
 | Yasniy P. V.    | (Ukraine) |
 | Kharchenko V.V.   | (Ukraine)|
@@ -20,7 +20,7 @@ permalink: /programmcommittee/
 | Okipnyi I.B.    |(Ukraine) |
 
 ## Members of the Program Committee ##
-|  1| 1| 1 |1|
+|  | | ||
 | ------ | ----------- | ------ | ----------- |
 |Azari Z.    | (France)| Okrajni J.| (Poland)|
 |Andreikiv, O.  |(Ukraine)|Nykyforchyn H.|(Ukraine)|

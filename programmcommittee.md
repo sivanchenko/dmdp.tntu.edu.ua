@@ -20,7 +20,7 @@ permalink: /programmcommittee/
 | Okipnyi I.B.    |(Ukraine) |
 
 ## Members of the Program Committee ##
-|  | | ||
+|  |  |  |  |
 | ------ | ----------- | ------ | ----------- |
 |Azari Z.    | (France)| Okrajni J.| (Poland)|
 |Andreikiv, O.  |(Ukraine)|Nykyforchyn H.|(Ukraine)|

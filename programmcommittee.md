@@ -4,9 +4,11 @@ title: Program Committee
 permalink: /programmcommittee/
 ---
 
-| First | Second |3|
-| ------------- | ------------- | ------------- |
-| Content | Content  | 3 |
-| Content Cell  | Content Cell  | 3 |
+## Co-Chairmen of the Program Committee ##
+
+| First | Second |
+| ------------- | ------------- |
+| Yasniy P. V. | (Ukraine) |
+| Kharchenko V.V | (Ukraine) |
 
 

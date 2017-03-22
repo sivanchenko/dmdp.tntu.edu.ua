@@ -4,9 +4,9 @@ title: Program Committee
 permalink: /programmcommittee/
 ---
 
-| First | Second |
-| ------------- | ------------- |
-| Content | Content  |
-| Content Cell  | Content Cell  |
+| First | Second |3|
+| ------------- | ------------- | ------------- |
+| Content | Content  | 3 |
+| Content Cell  | Content Cell  | 3 |
 
 

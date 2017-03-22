@@ -25,7 +25,7 @@ permalink: /programmcommittee/
 
 ## Members of the Program Committee ##
 
-| Member |  |  |  |
+| Member | Country | Member | Country |
 | ------ | ----------- | ------ | ----------- |
 |  Azari Z. | (France) | Okrajni J. | (Poland) |
 | Andreikiv, O. | (Ukraine) | Nykyforchyn H. | (Ukraine) |

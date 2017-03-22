@@ -13,4 +13,4 @@ The form of payment, details of hotel accommodation, and social program will be 
 
 
 On-line information about the Conference is placed at the address:
-https://ternopil-national-technical-university.github.io/dmdp.tntu.edu.ua/ 
+[https://ternopil-national-technical-university.github.io/dmdp.tntu.edu.ua/](https://ternopil-national-technical-university.github.io/dmdp.tntu.edu.ua/)

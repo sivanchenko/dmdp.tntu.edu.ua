@@ -16,4 +16,4 @@ Fax: +380 (352) 25 49 83
 
 e-mail: snt@tu.edu.te.ua
 
-http://dmdp.tntu.edu.ua
+[https://ternopil-national-technical-university.github.io/dmdp.tntu.edu.ua/](https://ternopil-national-technical-university.github.io/dmdp.tntu.edu.ua/)

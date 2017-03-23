@@ -4,7 +4,7 @@ title: Fee
 permalink: /fee/
 ---
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
+
 
   - for participants of the Conference: $100 USA
   - for post-graduate students and students: $50 USA.

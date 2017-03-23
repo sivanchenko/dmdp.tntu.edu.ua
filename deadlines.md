@@ -5,7 +5,7 @@ permalink: /deadlines/
 ---
 
 |  |  |
-| ------ | -----------: |
+| ------ | ----------- |
 | First announcement   | 1.02.17 |
 | Preliminary registration | 1.04.17|
 | Second announcement and call for papers   |1.04.17 |

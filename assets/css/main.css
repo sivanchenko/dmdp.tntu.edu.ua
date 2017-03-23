@@ -40,10 +40,19 @@ img {
     max-width: 100%;
     height: auto;
     vertical-align: top; }
-td, th {
+
+.deadline td, th {
     padding: 3px;
-    border: 1px solid black;
     text-align: left;
+    font-weight: 500;
+}
+.deadline table{
+   border-collapse: collapse;
+   width: 90%;
+}
+
+.deadline tbody tr:nth-child(odd){
+	background-color: #ffff66;
 }
 
 .container {

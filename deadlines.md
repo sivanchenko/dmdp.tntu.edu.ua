@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: deadline
 title: Deadlines
 permalink: /deadlines/
 ---
 
-|  | Deadline |
+|  |  |
 | ------ | -----------: |
 | First announcement   | 1.02.17 |
 | Preliminary registration | 1.04.17|

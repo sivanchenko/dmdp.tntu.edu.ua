@@ -184,3 +184,30 @@ img {
 .md-text{
     text-align: center;
 }
+.programmcommittee body{
+	font-family: sans-serif;
+}
+.programmcommittee h1{
+	color:#36485e;	
+	text-align: left;
+}
+.programmcommittee table{
+	border-collapse: collapse;
+	text-align: center;
+}
+.programmcommittee tr{
+	text-align: left;
+	font-size: 15px;
+}
+.programmcommittee th,td{
+	padding: 5px 5px;
+}
+
+.programmcommittee td,tr{
+	font-size: 16px;
+}
+.programmcommittee td, tr, table, td, h2{
+	text-align: center;
+	margin:0 auto;
+	font-family:serif;
+}

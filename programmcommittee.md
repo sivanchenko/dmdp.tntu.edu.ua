@@ -6,26 +6,26 @@ permalink: /programmcommittee/
 
 ## Co-Chairmen of the Program Committee ##
 
-| Co-Chairman |  |
+|  |  |
 | ------------- | ------------- |
 | Yasniy P. V. | (Ukraine) |
 | Kharchenko V.V | (Ukraine) |
 
 ## Chairman of the Organizing Committee ##
 
-| Chairman |  |
+|  |  |
 | ------ | ----------- |
 | Maruschak P.O. | (Ukraine) |
 
 ## Scientific secretary ##
 
-|Scientific secretary  |  |
+|  |  |
 | ------ | ----------- |
 | Okipnyi I.B. | (Ukraine) |
 
 ## Members of the Program Committee ##
 
-| Member | Country | Member | Country |
+|  |  |  |  |
 | ------ | ----------- | ------ | ----------- |
 |  Azari Z. | (France) | Okrajni J. | (Poland) |
 | Andreikiv, O. | (Ukraine) | Nykyforchyn H. | (Ukraine) |

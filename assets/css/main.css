@@ -41,7 +41,7 @@ img {
     height: auto;
     vertical-align: top; }
 
-.deadline td, th {
+.deadline td, .deadline th {
     padding: 3px;
     text-align: left;
     font-weight: 500;
@@ -187,27 +187,31 @@ img {
 .programmcommittee body{
 	font-family: sans-serif;
 }
+.programmcommittee td, .programmcommittee tr, .programmcommittee table, .programmcommittee td, .programmcommittee h2 , .programmcommittee h4{
+	text-align: center;
+	margin:0 auto;
+	font-family:serif;
+}
+.programmcommittee h2 , .programmcommittee h4{
+	margin-bottom: -30px;
+}
 .programmcommittee h1{
 	color:#36485e;	
 	text-align: left;
 }
 .programmcommittee table{
-	border-collapse: collapse;
 	text-align: center;
+	border-spacing: 25px 0;
 }
 .programmcommittee tr{
 	text-align: left;
 	font-size: 15px;
 }
-.programmcommittee th,td{
+.programmcommittee th, .programmcommittee td{
 	padding: 5px 5px;
 }
 
-.programmcommittee td,tr{
+.programmcommittee td, .programmcommittee tr{
 	font-size: 16px;
 }
-.programmcommittee td, tr, table, td, h2{
-	text-align: center;
-	margin:0 auto;
-	font-family:serif;
-}
+

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: programmcommittee
 title: Program Committee
 permalink: /programmcommittee/
 ---
@@ -11,13 +11,13 @@ permalink: /programmcommittee/
 | Yasniy P. V. | (Ukraine) |
 | Kharchenko V.V | (Ukraine) |
 
-## Chairman of the Organizing Committee ##
+#### Chairman of the Organizing Committee ####
 
 |  |  |
 | ------ | ----------- |
 | Maruschak P.O. | (Ukraine) |
 
-## Scientific secretary ##
+#### Scientific secretary ####
 
 |  |  |
 | ------ | ----------- |

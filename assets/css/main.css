@@ -213,5 +213,6 @@ img {
 
 .programmcommittee td, .programmcommittee tr{
 	font-size: 16px;
+	text-align: left;
 }
 

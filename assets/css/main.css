@@ -231,14 +231,16 @@ p {
 	font-size: 16px;
 	text-align: left;
 }
+
+.organized {
+    font-size: 16px;
+    line-height: 1.4;
+
+}
 .organized p{
     text-align: center;
     font-weight: 500;
-
-}
-.organized {
-    font-size: 16px;
-    line-height: 1.5;
+    line-height: 1.4;
 
 }
 .page-header__downloads img{

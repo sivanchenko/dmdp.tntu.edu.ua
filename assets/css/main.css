@@ -40,7 +40,10 @@ img {
     max-width: 100%;
     height: auto;
     vertical-align: top; }
-
+.aside-nav__img img{
+	width: 321px;
+	height: 321px;
+}
 .deadline td, .deadline th {
     padding: 3px;
     text-align: left;
@@ -215,4 +218,13 @@ img {
 	font-size: 16px;
 	text-align: left;
 }
+.organized p{
+    text-align: center;
+    font-weight: 500;
 
+}
+.organized {
+    font-size: 16px;
+    line-height: 1.5;
+
+}

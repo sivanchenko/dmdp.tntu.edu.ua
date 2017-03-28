@@ -40,9 +40,9 @@ img {
     max-width: 100%;
     height: auto;
     vertical-align: top; }
+
 .aside-nav__img img{
 	width: 321px;
-	height: 321px;
 }
 .deadline td, .deadline th {
     padding: 3px;

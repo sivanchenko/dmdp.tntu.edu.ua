@@ -40,6 +40,19 @@ img {
     max-width: 100%;
     height: auto;
     vertical-align: top; }
+	
+ol {
+	font-weight: 500;
+	line-height: 1.3;
+}
+ul{
+	line-height: 2;
+	font-weight: 500;
+}
+p {
+	font-weight: 500;
+	line-height: 2;
+}
 
 .aside-nav__img img{
 	width: 321px;
@@ -227,4 +240,7 @@ img {
     font-size: 16px;
     line-height: 1.5;
 
+}
+.page-header__downloads img{
+	width: 38%;
 }

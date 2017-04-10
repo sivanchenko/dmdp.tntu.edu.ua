@@ -16,6 +16,10 @@ gem "minima", "~> 2.0"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
+
+#To maintain a local Jekyll environment in sync with GitHub Pages replace 
+#the gem "jekyll" (gem "jekyll", "3.4.2") line with gem "github-pages", group: :jekyll_plugins
+
 gem "github-pages", group: :jekyll_plugins
 
 # If you have any plugins, put them here!

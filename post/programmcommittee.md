@@ -45,4 +45,4 @@ permalink: /programmcommittee/
 | Toth L. | (Hungary) | Troitskyi V. | (Ukraine) |
 | Lobanov L. | (Ukraine) | Troshchenko V. | (Ukraine) |
 | Menou A. | (Morocco) | Fomichev P. | (Ukraine) |
-
+|          |           | Bhaskar A.  | (GB) |

@@ -9,6 +9,7 @@ permalink: /programmcommittee/
 |  |  |
 | ------------- | ------------- |
 | Yasniy P. V. | (Ukraine) |
+| Nazarchuk Z.T. | (Ukraine) |
 | Kharchenko V.V | (Ukraine) |
 
 #### Chairman of the Organizing Committee ####
@@ -27,22 +28,27 @@ permalink: /programmcommittee/
 
 |  |  |  |  |
 | ------ | ----------- | ------ | ----------- |
-|  Azari Z. | (France) | Okrajni J. | (Poland) |
+|  Azari Z. | (France) | Matvienko Yu. | (Russia) |
 | Andreikiv, O. | (Ukraine) | Nykyforchyn H. | (Ukraine) |
-| Bolshakov V. | (Ukraine) | Nazarchuk Z.T. | (Ukraine) |
-| Bobyr M.I. | (Ukraine) | Panasyuk V. |	(Ukraine) |
-| Brezinova J. | (Slovakia) | Panin V. |	(Russia) | 
-| Gubeljak N. | (Slovenia) | Pluvinage G.| (France) |
-| Hutsaylyuk V.| (Poland) | Pokluda J. | (Czech Republik) |
-| Dietzel W. | (Germany) | Prentkovskis O. | (Lithuania) |
-| Zhuravkov М. | (Belarus) | Skalskyi V | (Ukraine) |
-| Carpinteri A. | (Italy) | Sedmak A. | (Serbia) |
-| Kushnir R. | (Ukraine) | Seweryn A. | (Poland) | 
-| Krasowskii A. | (Ukraine) | Sosnovskiy L. | (Belarus) |
+| Bolshakov V. | (Ukraine) | Panasyuk V. | (Ukraine) |
+| Bobyr M.I. | (Ukraine) | Panin V. |	(Russia) |
+| Brezinova J. | (Slovakia) | Pluvinage G. |	(France) | 
+| Gubeljak N. | (Slovenia) | Pokluda J. | (Czech Republik) |
+| Hutsaylyuk V.| (Poland) | Prentkovskis O. | (Lithuania) |
+| Dietzel W. | (Germany) | Skalskyi V | (Ukraine) |
+| Zhuravkov М. | (Belarus) | Sedmak A. | (Serbia) |
+| Carpinteri A. | (Italy) | Seweryn A. | (Poland) |
+| Kushnir R. | (Ukraine) |  Sosnovskiy L. | (Belarus) |
 | Kotrechko S. | (Ukraine) | Sulym H. | (Ukraine) |
 | Kryzhanivsky Ye. | (Ukraine) | Sniezek L. | (Poland) |
-| Lapusta Yu. | (France) | Toribio J. | (Spain) |
-| Toth L. | (Hungary) | Troitskyi V. | (Ukraine) |
-| Lobanov L. | (Ukraine) | Troshchenko V. | (Ukraine) |
-| Menou A. | (Morocco) | Fomichev P. | (Ukraine) |
-|          |           | Bhaskar A.  | (GB) |
+| Lapusta Yu. | (France) | Sunder R. | (India) |
+| Toth L. | (Hungary) | Toribio J. | (Spain) |
+| Lobanov L. | (Ukraine) | Troitskyi V. | (Ukraine) |
+| Menou A. | (Morocco) | Troshchenko V. | (Ukraine) |
+| Okrajni J. | (Poland) | Fomichev P. | (Ukraine) |
+|            |          | Bhaskar A.  | (Great Britain) |
+
+
+
+
+

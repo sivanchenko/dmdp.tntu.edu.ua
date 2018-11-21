@@ -4,7 +4,7 @@ title: General Information
 ---
 
 # General Information #
-### **September 19-22, 2017**  ### 
+### **September 24-17, 2019**  ### 
 ### **Ternopil, Ukraine** ###
 During operation, materials of structural elements are subjected to damages whose nature is dependent on the mode of loading and operating conditions (high and low temperatures, cyclic loading, corrosive medium, irradiation, etc.).
 

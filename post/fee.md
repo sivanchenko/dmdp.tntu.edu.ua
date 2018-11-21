@@ -5,11 +5,11 @@ permalink: /fee/
 ---
 
 
-
+##  The registration fee will be:
   - for participants of the Conference: $100 USA
   - for post-graduate students and students: $50 USA.
 
-## Payment requisites  
+## Payment requisites:  
 
 
 > **Назва:** Тернопільська обласна організації Українського союзу науково-технічної інтелігенції  

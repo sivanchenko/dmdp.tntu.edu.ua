@@ -1,15 +1,16 @@
 ---
 layout: deadline
-title: Deadlines
+title: Schedule and deadlines
 permalink: /deadlines/
 ---
 
 |  |  |
 | ------ | ----------- |
-| First announcement   | 1.02.17 |
-| Preliminary registration | 1.04.17|
-| Second announcement and call for papers   |1.04.17 |
-|Submission of final manuscripts|01.07.17|
-|Payment of the Conference fee|01.07.17|
-|Conference Program|15.08.17|
-|Participation in the Conference|19-22.09.17|
+| First announcement   | 01.12.18 |
+| Preliminary registration | 01.03.19|
+| Second announcement and call for papers   |01.04.19 |
+|Submission of final manuscripts|01.07.19|
+|Payment of the Conference fee|01.07.19|
+|Conference Program|15.08.19|
+|Participation in the Conference|24-27.09.19|
+

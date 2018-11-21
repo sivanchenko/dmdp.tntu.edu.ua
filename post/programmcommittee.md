@@ -31,8 +31,8 @@ permalink: /programmcommittee/
 |  Azari Z. | (France) | Matvienko Yu. | (Russia) |
 | Andreikiv, O. | (Ukraine) | Nykyforchyn H. | (Ukraine) |
 | Bolshakov V. | (Ukraine) | Panasyuk V. | (Ukraine) |
-| Bobyr M.I. | (Ukraine) | Panin V. |	(Ukraine) |
-| Brezinova J. | (Slovakia) | Pluvinage G. |	(Russia) | 
+| Bobyr M.I. | (Ukraine) | Panin V. |	(Russia) |
+| Brezinova J. | (Slovakia) | Pluvinage G. |	(France) | 
 | Gubeljak N. | (Slovenia) | Pokluda J. | (Czech Republik) |
 | Hutsaylyuk V.| (Poland) | Prentkovskis O. | (Lithuania) |
 | Dietzel W. | (Germany) | Skalskyi V | (Ukraine) |
@@ -41,7 +41,7 @@ permalink: /programmcommittee/
 | Kushnir R. | (Ukraine) |  Sosnovskiy L. | (Belarus) |
 | Kotrechko S. | (Ukraine) | Sulym H. | (Ukraine) |
 | Kryzhanivsky Ye. | (Ukraine) | Sniezek L. | (Poland) |
-| Lapusta Yu. | (France) | Sunder R. | (Poland) |
+| Lapusta Yu. | (France) | Sunder R. | (India) |
 | Toth L. | (Hungary) | Toribio J. | (Spain) |
 | Lobanov L. | (Ukraine) | Troitskyi V. | (Ukraine) |
 | Menou A. | (Morocco) | Troshchenko V. | (Ukraine) |

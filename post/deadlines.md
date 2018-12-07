@@ -1,6 +1,6 @@
 ---
 layout: deadline
-title: Schedule and Deadlines
+title: Deadlines
 permalink: /deadlines/
 ---
 

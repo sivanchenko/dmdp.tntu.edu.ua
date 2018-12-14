@@ -4,49 +4,72 @@ title: Program Committee
 permalink: /programmcommittee/
 ---
 
-## Co-Chairmen of the Program Committee ##
+### Co-Chairmen of the Program Committee 
+<div class="co-chairmen">
+    Yasniy P. V.  (Ukraine) <br>
+    Nazarchuk Z.T.  (Ukraine) <br>
+    Kharchenko V.V.  (Ukraine) <br>
+</div>
 
-|  |  |
-| ------------- | ------------- |
-| Yasniy P. V. | (Ukraine) |
-| Nazarchuk Z.T. | (Ukraine) |
-| Kharchenko V.V | (Ukraine) |
+### Chairman of the Organizing Committee
 
-#### Chairman of the Organizing Committee ####
+<div class="chairmen">
+    Yasniy P. V.  (Ukraine) <br>
+    Nazarchuk Z.T.  (Ukraine) <br>
+    Kharchenko V.V.  (Ukraine) <br>
+</div> 
 
-|  |  |
-| ------ | ----------- |
-| Maruschak P.O. | (Ukraine) |
+### Scientific secretary 
 
-#### Scientific secretary ####
+<div class="scientific-secretary">
+    Okipnyi I.B.  (Ukraine) 
+</div>
 
-|  |  |
-| ------ | ----------- |
-| Okipnyi I.B. | (Ukraine) |
 
-## Members of the Program Committee ##
-
-|  |  |  |  |
-| ------ | ----------- | ------ | ----------- |
-|  Azari Z. | (France) | Matvienko Yu. | (Russia) |
-| Andreikiv, O. | (Ukraine) | Nykyforchyn H. | (Ukraine) |
-| Bolshakov V. | (Ukraine) | Panasyuk V. | (Ukraine) |
-| Bobyr M.I. | (Ukraine) | Panin V. |	(Russia) |
-| Brezinova J. | (Slovakia) | Pluvinage G. |	(France) | 
-| Gubeljak N. | (Slovenia) | Pokluda J. | (Czech Republik) |
-| Hutsaylyuk V.| (Poland) | Prentkovskis O. | (Lithuania) |
-| Dietzel W. | (Germany) | Skalskyi V | (Ukraine) |
-| Zhuravkov М. | (Belarus) | Sedmak A. | (Serbia) |
-| Carpinteri A. | (Italy) | Seweryn A. | (Poland) |
-| Kushnir R. | (Ukraine) |  Sosnovskiy L. | (Belarus) |
-| Kotrechko S. | (Ukraine) | Sulym H. | (Ukraine) |
-| Kryzhanivsky Ye. | (Ukraine) | Sniezek L. | (Poland) |
-| Lapusta Yu. | (France) | Sunder R. | (India) |
-| Toth L. | (Hungary) | Toribio J. | (Spain) |
-| Lobanov L. | (Ukraine) | Troitskyi V. | (Ukraine) |
-| Menou A. | (Morocco) | Troshchenko V. | (Ukraine) |
-| Okrajni J. | (Poland) | Fomichev P. | (Ukraine) |
-|            |          | Bhaskar A.  | (Great Britain) |
+### Members of the Program Committee 
+<div class="members-box">
+        <ul class="members-first">
+            <li>Azari Z. (France)</li>
+            <li>Andreikiv O. (Ukraine)</li>
+            <li>Bolshakov V. (Ukraine)</li>
+            <li>Bobyr M.I. (Ukraine)</li> 
+            <li>Brezinova J. (Slovakia)</li>
+            <li>Gubeljak N.  (Slovenia)</li> 
+            <li>Hutsaylyuk V. (Poland)</li>
+            <li>Dietzel W. (Germany)</li>
+            <li>Zhuravkov М. (Belarus)</li> 
+            <li>Carpinteri A. (Italy)</li> 
+            <li>Kushnir R. (Ukraine)</li> 
+            <li>Kotrechko S. (Ukraine)</li> 
+            <li>Kryzhanivsky Ye. (Ukraine)</li> 
+            <li>Lapusta Yu. (France)</li> 
+            <li>Toth L. (Hungary)</li> 
+            <li>Lobanov L. (Ukraine)</li> 
+            <li>Menou A. (Morocco)</li>
+            <li>Okrajni J. (Poland)</li>
+        </ul>
+        <ul class="members-two">
+            <li>Matvienko Yu.(Russia)</li>
+            <li>Nykyforchyn H. (Ukraine)</li>
+            <li>Panasyuk V. (Ukraine)</li>      
+            <li>Panin V. (Russia)</li>      
+            <li>Pluvinage G. (France)</li>
+            <li>Pokluda J. (Czech Republik)</li>        
+            <li>Prentkovskis O. (Lithuania)</li>
+            <li>Skalskyi V. (Ukraine)</li>
+            <li>Sedmak A. (Serbia)</li>
+            <li>Seweryn A. (Poland)</li>
+            <li>Sosnovskiy L. (Belarus)</li>            
+            <li>Sulym H. (Ukraine)</li>            
+            <li>Sniezek L. (Poland)</li>            
+            <li>Sunder R. (India)</li>           
+            <li>Toribio J.(Spain)</li>
+            <li>Troitskyi V. (Ukraine)</li>
+            <li>Troshchenko V. (Ukraine)</li>
+            <li>Fomichev P. (Ukraine)</li>
+            <li>Bhaskar A. (Great Britain)</li> 
+         </ul>
+</div>
 
 
 

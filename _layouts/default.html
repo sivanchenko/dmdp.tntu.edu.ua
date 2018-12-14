@@ -23,12 +23,78 @@
 
     </script>
 
+    <script>
+        function myFunction() {
+          var x = document.getElementById("myLinks");
+          if (x.style.display === "block") {
+            x.style.display = "none";
+          } else {
+            x.style.display = "block";
+          }
+        }
+    </script>
 
 </head>
 <body class="main-page">
 
 <header class="page-header">
     <div class="container">
+
+        <div class="mobile-menu">
+
+            <!-- Top Navigation Menu -->
+            <div class="topnav">
+                <a href="#home" class="active">Menu</a>
+                <div id="myLinks">
+                    <ul class="main-nav__list">
+                        <li class="main-nav__item">
+                            <a href="/" class="main-nav__link">
+                                General Information
+                            </a>
+                        </li>
+                        <li class="main-nav__item">
+                            <a href="/deadlines/" class="main-nav__link">
+                                Deadlines
+                            </a>
+                        </li>
+                        <li class="main-nav__item">
+                            <a href="/organizedby/" class="main-nav__link">
+                                Organized by
+                            </a>
+                        </li>
+                        <li class="main-nav__item">
+                            <a href="/programmcommittee/" class="main-nav__link">
+                                Program Committee
+                            </a>
+                        </li>
+                        <li class="main-nav__item">
+                            <a href="/RegistrationForm/" class="main-nav__link">
+                                Registration form
+                            </a>
+                        </li>
+                        <li class="main-nav__item">
+                            <a href="/fee/" class="main-nav__link">
+                                Fee
+                            </a>
+                        </li>
+                        <li class="main-nav__item">
+                            <a href="/contacts/" class="main-nav__link">
+                                Contacts
+                            </a>
+                        </li>
+                        <li class="main-nav__item">
+                            <a href="/assets/docs/Program-DMDP-2019.pdf" class="main-nav__link" target="_blank">
+                                Conference Program
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+                    <img src="../assets/img/icon-mobile-menu.png" width="25" alt="icon-mobile-menu">
+                </a>
+            </div>   
+
+        </div>
 
         <div class="page-header__inner">
             <div class="page-header__left">
@@ -42,6 +108,7 @@
                 </h4>
             </div>
         </div>
+    </div>
 </header>
 
 <div class="content">
@@ -93,6 +160,7 @@
                         </li>
                     </ul>
                 </nav>
+
                 <div class="aside-nav__img">
                     <a href="/" class="aside-nav__picture-link">
                         <img src="{{ site.baseurl }}/assets/img/conference-logo.jpg" alt="aside img">

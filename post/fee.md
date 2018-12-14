@@ -6,8 +6,8 @@ permalink: /fee/
 
 
 ##  The registration fee will be:
-  - for participants of the Conference: $100 USA
-  - for post-graduate students and students: $50 USA.
+  - For participants of the Conference: $100 USA
+  - For post-graduate students and students: $50 USA.
 
 ## Payment requisites:  
 
